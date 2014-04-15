@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 
-'''Google Code Jam 2012
+'''Google Code Jam 2014
    Dancing Googlers
    Author: Aniket Zamwar
    email: aniketzamwar@gmail.com'''
